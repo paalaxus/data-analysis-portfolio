@@ -51,7 +51,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Study Projects
-In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+In this section I will provide information on courses I was taking
   
 
 ### Data Analyst Specialization
@@ -96,7 +96,7 @@ project management tracker with excel -
 
 ## Certificates
 Here is a list of Certificates I have acquired. List will be constantly updated as I continue to learn (P.S clicking will download the file):
-[Charts and Dashboards - Excel.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447231/Charts.and.Dashboards.-.Excel.pdf)
+
 
 [Data Analysis using Python.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447232/Data.Analysis.using.Python.pdf)
 
@@ -110,7 +110,6 @@ Here is a list of Certificates I have acquired. List will be constantly updated 
 
 [Google Data Analytics.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447237/Google.Data.Analytics.pdf)
 
-[Hr dashboard in power bi.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447238/Hr.dashboard.in.power.bi.pdf)
 
 [Prepare Data for Exploration.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447239/Prepare.Data.for.Exploration.pdf)
 
