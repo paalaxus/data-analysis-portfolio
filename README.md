@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
 	+ [Data Analysis Using Python](#data-analysis-using-python)
 	+ [Learning SQL](#learning-sql)
 	+ [Foundations of Project Management](#foundations-of-project-management)
-	+ [Salesforce Basics](#computer-science-career-path)
+	+ [Salesforce Basics](#salesforce-basics)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -36,6 +36,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Fitbit Data Analysis
 **Presentation:** https://github.com/paalaxus/Fitbit-Data-Analysis/blob/main/PPT%20How%20can%20a%20Wellness%20Company%20play%20it%20smart_.pptx
+
 **Description:** Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits
 **Skills:** data cleaning, data analysis, data validation,data visualization.
 **Technology:** SQL, Tableu, Google Sheets
@@ -48,55 +49,29 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** PowerBI, Google Sheets
 **Results:** Dashboard to accurately represent employee information 
 
-### Video Games Sales Analysis
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
-**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
-
-
-
-
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
-
-### sklearn ml course
-**Description:** Machine Learning in Python with scikit-learn by France Université Numérique. [The course official page](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/).  
-This 3 month course is an in-depth introduction to predictive modeling with scikit-learn. Step-by-step and didactic lessons introduce the fundamental methodological and software tools of machine learning, and is as such a stepping stone to more advanced challenges in artificial intelligence, text mining, or data science.  
-**Repository:** Check the repository having jupyter notebooks with the course lectures and tasks' solutions ---> [go to repo..](https://github.com/nktnlx/sklearn_ml_course)  
-**Status:** Completed in May 2022 (please, check the certificates section below).  
-
-### Kaggle 30 Days of ML
-**Description:** 30 days of Machine Learning by [Kaggle](https://www.kaggle.com/thirty-days-of-ml). The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.  
-**Repository:** Check the repository having jupyter notebooks with the course tasks' solutions ---> [go to repo..](https://github.com/nktnlx/kaggle_30_Days_of_ML)  
-**Status:** Completed in August 2021 (please, check the certificates section below).    
+  
 
 ### Data Analyst Specialization
-**Description:** This is a 5 month specialization by [karpov.courses](https://karpov.courses/analytics). The specialization includes Python, API, Git, Airflow, SQL, Statistics, A/B testing, Visualization, Product development and Product Analytics modules.  
-**Repository:** Check the repository having 37 data analysis mini-projects ---> [go to repo..](https://github.com/nktnlx/data_analysis_course)  
-**Status:** Completed in July 2021 (please, check the certificates section below).  
+**Description:** This is a 6 month specialization by Google onCoursera. The specialization includes  SQL, R, Visualization, and Product Analytics modules.  
+**Status:** Completed (please, check the certificates section below).  
 
-### Data Analysis Course Tinkoff-MSU
-**Description:** This is a 3 month course by [Tinkoff Education](https://fintech.tinkoff.ru/study/academy/analysis/). The course was created for Moscow State University Faculty of Mechanics and Mathematics students and includes following topics: Introduction to Data Analysis, SQL, Data Visualization in Python, A/B tests, Data Interpretation, Models, Logistic regression, Mobile Analytics, Random Forest, etc..  
-**Repository:** Check the repository having my code and solutions for home-tasks and projects of the course ---> [go to repo..](https://github.com/nktnlx/data_analysis_tinkoff_msu)  
-**Status:** Completed in May 2021 (please, check the certificates section below).   
+### Data Analysis Using Python - University of Pennsylvania
+
+**Description:** This is a  course by University of Pennsylvania on Coursera. This course provides an introduction to basic data science techniques using Python.  Students are introduced to core concepts like Data Frames and joining data, and learn how to use data analysis libraries like pandas, numpy, and matplotlib.  This course provides an overview of loading, inspecting, and querying real-world data, and how to answer basic questions about that data. 
+
+**Status:** Completed (please, check the certificates section below).   
 
 ### Learning SQL
-**Description:** SQL queries for tasks from [codecademy](https://www.codecademy.com/learn/learn-sql), [sql-ex.ru](https://www.sql-ex.ru/?Lang=1), [stepik](https://stepik.org/course/63054/syllabus), [sql module on Yandex Praktikum](https://praktikum.yandex.ru/data-analyst/), etc.      
-**Repository:** Check the repository having 400+ SQL queries ---> [go to repo..](https://github.com/nktnlx/learning_SQL)  
+**Description:** Learnt basics of sql with a course list from w3schools and from the Google Data Analytics specialization      
 **Status:** Some of the courses are still in progress.  
 
-### Python Developer Track
-**Description:** 25 projects, 154 hours, 300 topics python developer track from [JetBrains Academy](https://hyperskill.org/tracks/2)  
-**Repository:** Check the repository having 11 completed projects including: Hangman, Tic-Tac-Toe, Rock-Paper-Scissors games; Matrix calculator, own-coded Regex engine, To-Do list, etc. ---> [go to repo..](https://github.com/nktnlx/jetbrains_python_developer)  
-**Status:** Completed 11 projects, studied 116 topics from the track to practice my python skills. Will revert back to the track later.  
 
-### Computer Science Career Path
-**Description:** 20 weeks Computer Science Career Path from [Codecademy](https://www.codecademy.com/learn/paths/computer-science). The career path includes following topics: command line commands, git, python 3, OOP, linear data structures, complex data structures, asymptotic notation, recursion, sorting algorithms, search algorithms, graph search algorithms.  
-**Repository:** Although the career path has been already completed the repository is still under development, having only 9 listed projects including: words statistics calculator, English nouns pluralizer, English verbs conjugation, censor engine, etc. ---> [go to repo..](https://github.com/nktnlx/cs_path_codecademy)  
-**Status:** Completed in July 2020 (please, check the certificates section below).  
+### Foundations of Project Management
+**Description:** Explore project management roles and responsibilities across a variety of industries and learnt about in detail the core skills that help a project managers be successful. Course teaches about the life cycle of a project and explains the significance of each phase. learnt about the  different program management methodologies and approaches and determine which is most effective for a given project.
+**Status:** Completed (please, check the certificates section below).  
 
 ### Google Python Class
 **Description:** This is a free class for people with a little bit of programming experience who want to learn Python by [Google](https://developers.google.com/edu/python). Topics covered: strings, lists, sorting, dicts, files, regular expressions, utilities, urllib.  
