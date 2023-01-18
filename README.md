@@ -13,8 +13,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Fitbit Data Analysis](#fitbit-data-analysis)
-	+ [Hr Analytics Dashboard](#hr-analytics-dashboard-with-powerbi)
-	+ [Covid19 Data analysis using Python](#covid19-data-analysis-using-python)
+	+ [Hr Analytics Dashboard](#hr-analytics-dashboard)
+	+ [Covid19 Data analysis using Python](#covid19-analysis)
 - [Study Projects](#study-projects)  
 	+ [Google Data Analysis Course](#data-analysis-specialization)
 	+ [Data Analysis Using Python](#data-analysis-using-python)
@@ -35,13 +35,18 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:
 
 ### Fitbit Data Analysis
-**Presentation:**
+**Presentation:** https://github.com/paalaxus/Fitbit-Data-Analysis/blob/main/PPT%20How%20can%20a%20Wellness%20Company%20play%20it%20smart_.pptx
 **Description:** Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits
 **Skills:** data cleaning, data analysis, data validation,data visualization.
 **Technology:** SQL, Tableu, Google Sheets
 **Results:** Review of the fitbit data, data-based business recommendations.
 
-
+### HR Analytics Dashboard
+**Presentation:** https://github.com/paalaxus/hr-analytics-dashboard-with-PowerBI/blob/main/Hr_Dashboard.pbix
+**Description:** Built an eye-catching HR dashboard using Power BI. The project was started by importing data & creating an employee demographics page that gives the overall demographic outlook of the organization. 
+**Skills:** data cleaning,data visualization.
+**Technology:** PowerBI, Google Sheets
+**Results:** Dashboard to accurately represent employee information 
 
 ### Video Games Sales Analysis
 **Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
@@ -50,22 +55,9 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
 **Results:** Review of the global and regional video games markets, data-based business recommendations.  
 
-### A Mobile Game Data Analysis
-**Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    
-**Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
-**Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
-**Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.    
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.     
-**Results:** python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.  
 
 
-### Airbnb Listings Analytics 
-**Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/nktn.lx/viz/LondonAirbnbListingsAnalyticalDashboardpractice5/Dashboard1)    
-**Dashboard canvas:** [`dashboard_canvas.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/32_airbnb_listings/dashboard_canvas.pdf)   
-**Description:** Tableau Public dashboard consisted of: calculated renting property occupation rate; analytical chart to choose the best property by occupation rate, review score and price per night; a ranked table of top listings by calculated potential annual revenue; average price, average occupation rate and a number of unique listings KPIs; filters by neighborhood, occupation rate and a number of reviews per the last twelve month.    
-**Skills:** interview with a customer, requirements capture, designing an analytical dashboard, product delivery.    
-**Technology:** Tableau.    
-**Results:** created an analytical dashboard to support daily activities of a company involved in apartments renting business. 
+
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
