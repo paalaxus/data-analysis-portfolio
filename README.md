@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Covid-19 Analysis
+### Covid-19 Analysis (WIP)
 **Code:**  
 **Description:** 
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
@@ -86,8 +86,11 @@ Explore project management roles and responsibilities across a variety of indust
 **Repository:**  
 
 simple python to do list - https://github.com/paalaxus/simple-To-do-list---Python
+
 python game - 
+
 project management tracker with excel - 
+
 **Status:** some projects are in progress  
 
 ### Tableau Vizzes
