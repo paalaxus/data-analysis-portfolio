@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Kofi! I have a technical background and have a Bachelors degree in Computer Engineering with minors in Computer Science and Mathematics. I have worked as a Field Administrator and after earning my degree, i grew an interest in Data and Analytics
+Hi, I'm Kofi! I have a technical background and have a Bachelors degree in Computer Engineering with minors in Computer Science and Mathematics.  after earning my degree, i grew an interest in Data and Analytics and this is what I have done in pursuit of that.
 
 <br>
 This is a repository to showcase skills, share projects and track my progress in Data Analytics.  
