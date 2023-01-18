@@ -95,20 +95,33 @@ project management tracker with excel -
 **Status:** ∞  
 
 ## Certificates
-Here is a list of Certificates I have acquired. List will be constantly updated as I continue to learn:
+Here is a list of Certificates I have acquired. List will be constantly updated as I continue to learn (P.S clicking will download the file):
 [Charts and Dashboards - Excel.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447231/Charts.and.Dashboards.-.Excel.pdf)
+
 [Data Analysis using Python.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447232/Data.Analysis.using.Python.pdf)
+
 [Data Analysis with R Programming Certificate.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447233/Data.Analysis.with.R.Programming.Certificate.pdf)
+
 [first python program from UST.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447234/first.python.program.from.UST.pdf)
+
 [Foundations of Data Analysis.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447235/Foundations.of.Data.Analysis.pdf)
+
 [Foundations of PM certificate.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447236/Foundations.of.PM.certificate.pdf)
+
 [Google Data Analytics.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447237/Google.Data.Analytics.pdf)
+
 [Hr dashboard in power bi.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447238/Hr.dashboard.in.power.bi.pdf)
+
 [Prepare Data for Exploration.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447239/Prepare.Data.for.Exploration.pdf)
+
 [Process Data from Dirty to Clean.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447240/Process.Data.from.Dirty.to.Clean.pdf)
+
 [Salesforce Basics Certification.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447241/Salesforce.Basics.Certification.pdf)
+
 [Share Data Through the Art of Visualization.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447242/Share.Data.Through.the.Art.of.Visualization.pdf)
+
 [Analyze Data to Answer Questions.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447243/Analyze.Data.to.Answer.Questions.pdf)
+
 [Ask Questions to Make Data-Driven Decisions.pdf](https://github.com/paalaxus/data-analysis-portfolio/files/10447244/Ask.Questions.to.Make.Data-Driven.Decisions.pdf)
 
 
