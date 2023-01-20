@@ -27,12 +27,12 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Covid-19 Analysis (WIP)
-**Code:**  
-**Description:** 
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:
+### Covid-19 Analysis
+**Code:**  https://github.com/paalaxus/Covid-19-Analysis/blob/main/COVID-19%20ANALYSIS.ipynb
+**Description:** Analyzing datasets of covid 19  and World Happiness data to determine correlation
+**Skills:** data cleaning, data analysis, descriptive statistics, data visualization.  
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.  
+**Results: Found the correlation between Happiness data and Covid 19
 
 ### Fitbit Data Analysis
 **Presentation:** https://github.com/paalaxus/Fitbit-Data-Analysis/blob/main/PPT%20How%20can%20a%20Wellness%20Company%20play%20it%20smart_.pptx
@@ -82,7 +82,8 @@ Explore project management roles and responsibilities across a variety of indust
 **Status:** Completed (please, check the certificates section below).  
 
 ### Side Projects
-**Description:** Side projects and various code snippets I'm having fun with.  
+**Description:** Side projects and various code snippets I'm having fun with. 
+
 **Repository:**  
 
 simple python to do list - https://github.com/paalaxus/simple-To-do-list---Python
