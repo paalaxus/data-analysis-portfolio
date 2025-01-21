@@ -137,5 +137,5 @@ Here is a list of Certificates I have acquired. List will be constantly updated 
 
 
 ## Contacts
-- LinkedIn: [@Paalaxus](https://www.linkedin.com/in/paa-kofi-boafo-27aa71160/)
+- LinkedIn: [@Paalaxus](https://www.linkedin.com/in/kofi-boafo-27aa71160/))
 - E-mail: paalaxus@gmail.com
