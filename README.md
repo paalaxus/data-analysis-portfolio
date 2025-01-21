@@ -1,8 +1,9 @@
-# Paa kofi - Data Analysis Portfolio 
+# kofi Boafo - Data Analysis Portfolio 
 
 ## About
 
-Hi, I'm Kofi! I have a technical background and have a Bachelors degree in Computer Engineering with minors in Computer Science and Mathematics.  after earning my degree, i grew an interest in Data and Analytics and this is what I have done in pursuit of that.
+Hi, I'm Kofi! I have a technical background and have a Bachelors degree in Computer Engineering with minors in Computer Science and Mathematics.  after earning my degree, i grew an interest in Data and Analytics and pursued a masters degree in Data Science. These are projects I have done in my spare time.
+
 
 <br>
 This is a repository to showcase skills, share projects and track my progress in Data Analytics.  
