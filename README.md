@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
 	+ [Fitbit Data Analysis](#fitbit-data-analysis)
 	+ [Hr Analytics Dashboard](#hr-analytics-dashboard)
-	+ [Covid19 Data analysis using Python]
+	+ [Covid19 Data analysis using Python](#covid19-analysis)
 - [Study Projects](#study-projects)  
 	+ [Google Data Analysis Course](#data-analysis-specialization)
 	+ [Data Analysis Using Python](#data-analysis-using-python)
@@ -36,7 +36,7 @@ Deploy Streamlit web app to Heroku.
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Streamlit  
 **Results: 
 
-### Covid-19 Analysis
+### Covid19 Analysis
 **Code:**  https://github.com/paalaxus/Covid-19-Analysis/blob/main/COVID-19%20ANALYSIS.ipynb
 **Description:** Analyzing datasets of covid 19  and World Happiness data to determine correlation
 **Skills:** data cleaning, data analysis, descriptive statistics, data visualization, python coding
