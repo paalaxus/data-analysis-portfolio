@@ -13,6 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
+  	+ [Webscraping with Python](#webscraping-with-python)
 	+ [Fitbit Data Analysis](#fitbit-data-analysis)
 	+ [Hr Analytics Dashboard](#hr-analytics-dashboard)
 	+ [Covid19 Data analysis using Python](#covid19-analysis)
@@ -28,24 +29,15 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Deploying a Python Data Analytics web app on Heroku
-**Code:**  WIP
-**Description:** Analyze the General Social Survey Data with Python Data modules, Visualize the analyzed data with Streamlit in a web app then 
-Deploy Streamlit web app to Heroku.
-**Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, defining metrics.
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Streamlit  
-**Results: 
 
-### Covid19 Analysis
-**Code:**  https://github.com/paalaxus/Covid-19-Analysis/blob/main/COVID-19%20ANALYSIS.ipynb
-**Description:** Analyzing datasets of covid 19  and World Happiness data to determine correlation
-**Skills:** data cleaning, data analysis, descriptive statistics, data visualization, python coding
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.  
-**Results: Found the correlation between Happiness data and Covid 19
+### Webscraping with python
+**Presentation:** https://github.com/paalaxus/webscraping_with_python
+**Description:** Applied the concepts of web scraping, which include setting up a Scrapy project, generating spiders, and using XPath queries to extract data from websites that do not provide an API
+**Technology:** Python
+**Results:** Successfully scrapped data from a website
 
 ### Fitbit Data Analysis
 **Presentation:** https://github.com/paalaxus/Fitbit-Data-Analysis/blob/main/PPT%20How%20can%20a%20Wellness%20Company%20play%20it%20smart_.pptx
-
 **Description:** Thirty eligible Fitbit users consented to the submission of personal tracker data, including minute-level output for physical activity, heart rate, and sleep monitoring. It includes information about daily activity, steps, and heart rate that can be used to explore users’ habits
 **Skills:** data cleaning, data analysis, data validation,data visualization.
 **Technology:** SQL, Tableu, Google Sheets
@@ -57,6 +49,24 @@ Deploy Streamlit web app to Heroku.
 **Skills:** data cleaning,data visualization.
 **Technology:** PowerBI, Google Sheets
 **Results:** Dashboard to accurately represent employee information 
+
+### Covid19 Analysis
+**Code:**  https://github.com/paalaxus/Covid-19-Analysis/blob/main/COVID-19%20ANALYSIS.ipynb
+**Description:** Analyzing datasets of covid 19  and World Happiness data to determine correlation
+**Skills:** data cleaning, data analysis, descriptive statistics, data visualization, python coding
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.  
+**Results: Found the correlation between Happiness data and Covid 19
+
+
+### Deploying a Python Data Analytics web app on Heroku
+**Code:**  WIP
+**Description:** Analyze the General Social Survey Data with Python Data modules, Visualize the analyzed data with Streamlit in a web app then 
+Deploy Streamlit web app to Heroku.
+**Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, defining metrics.
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Streamlit  
+**Results: 
+
+
 
 
 ## Study Projects
