@@ -31,7 +31,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Webscraping with python
-**Presentation:** https://github.com/paalaxus/webscraping_with_python
+**Presentation:** https://github.com/paalaxus/webscraping_with_python n/
 **Description:** Applied the concepts of web scraping, which include setting up a Scrapy project, generating spiders, and using XPath queries to extract data from websites that do not provide an API
 **Technology:** Python
 **Results:** Successfully scrapped data from a website
