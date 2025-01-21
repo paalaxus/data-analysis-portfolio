@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
 	+ [Fitbit Data Analysis](#fitbit-data-analysis)
 	+ [Hr Analytics Dashboard](#hr-analytics-dashboard)
-	+ [Covid19 Data analysis using Python](#Covid19-analysis)
+	+ [Covid19 Data analysis using Python]
 - [Study Projects](#study-projects)  
 	+ [Google Data Analysis Course](#data-analysis-specialization)
 	+ [Data Analysis Using Python](#data-analysis-using-python)
