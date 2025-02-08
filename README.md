@@ -39,8 +39,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Airbnb 
 **Presentation:** https://github.com/paalaxus/Data-Exploration <br />
-**Description:** Obtained a dataset of Airbnb listings and tried to determine the most popular listings 
-**Technology:** Python  
+**Description:** Obtained a dataset of Airbnb listings and tried to determine the most popular listings   
+**Technology:** Python    
 **Results:** Successfully explored data and made a visualization  
 
 
