@@ -14,6 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   	+ [Webscraping with Python](#webscraping-with-python)
+  	+ [Airbnb Data Exploration](#airbnb)
 	+ [Fitbit Data Analysis](#fitbit-data-analysis)
 	+ [Hr Analytics Dashboard](#hr-analytics-dashboard)
 	+ [Covid19 Data analysis using Python](#covid19-analysis)
@@ -35,6 +36,13 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** Applied the concepts of web scraping, which include setting up a Scrapy project, generating spiders, and using XPath queries to extract data from websites that do not provide an API  
 **Technology:** Python  
 **Results:** Successfully scrapped data from a website  
+
+### Airbnb 
+**Presentation:** https://github.com/paalaxus/Data-Exploration <br />
+**Description:** Obtained a dataset of Airbnb listings and tried to determine the most popular listings 
+**Technology:** Python  
+**Results:** Successfully explored data and made a visualization  
+
 
 ### Fitbit Data Analysis  
 **Presentation:** https://github.com/paalaxus/Fitbit-Data-Analysis/blob/main/PPT%20How%20can%20a%20Wellness%20Company%20play%20it%20smart_.pptx  
