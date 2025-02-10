@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  	+ [Webscraping with Python](#webscraping-with-python)
+  	+ [Predicting House Prices with ML](#predicting-house-prices-with-ml)
   	+ [Airbnb Data Exploration](#airbnb)
 	+ [Fitbit Data Analysis](#fitbit-data-analysis)
 	+ [Hr Analytics Dashboard](#hr-analytics-dashboard)
@@ -31,11 +31,12 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 
-### Webscraping with python  
-**Presentation:** https://github.com/paalaxus/webscraping_with_python <br />
-**Description:** Applied the concepts of web scraping, which include setting up a Scrapy project, generating spiders, and using XPath queries to extract data from websites that do not provide an API  
-**Technology:** Python  
-**Results:** Successfully scrapped data from a website  
+### Predicting house prices with ML 
+**Presentation:**  <br />
+**Description:** Built a simple machine learning model to predict house prices based on location using the tidymodels framework in R
+**Technology:** R, Tidymodels  
+**Results:** Successfully built the model and predicted prices. 
+
 
 ### Airbnb 
 **Presentation:** https://github.com/paalaxus/Data-Exploration <br />
