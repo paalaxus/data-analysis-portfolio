@@ -33,7 +33,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Predicting house prices with ML 
-**Presentation:**  <br />
+**Presentation:** https://github.com/paalaxus/Predicting-House-Prices <br />
 **Description:** Built a simple machine learning model to predict house prices based on location using the tidymodels framework in R
 **Technology:** R, Tidymodels  
 **Results:** Successfully built the model and predicted prices. 
