@@ -15,6 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
   	+ [Predicting House Prices with ML](#predicting-house-prices-with-ml)
   	+ [Airbnb Data Exploration](#airbnb)
+  	+ [Breast_Bancer_ETL](#etl)
 	+ [Fitbit Data Analysis](#fitbit-data-analysis)
 	+ [Hr Analytics Dashboard](#hr-analytics-dashboard)
 	+ [Covid19 Data analysis using Python](#covid19-analysis)
@@ -43,6 +44,11 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** Obtained a dataset of Airbnb listings and tried to determine the most popular listings   
 **Technology:** Python    
 **Results:** Successfully explored data and made a visualization  
+
+### Breast Cancer ETL
+**Description:** A simple ETL pipeline that extracts data from a breast cancer CSV file obtained from Kaggle, transforms it to include only diagnosis and radius_mean, and loads it into a new CSV file. </br>
+**Technology:** Python, Pandas      
+**Results:** Successfuly created a new csv file with the filter 
 
 
 ### Fitbit Data Analysis  
