@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
   	+ [Predicting House Prices with ML](#predicting-house-prices-with-ml)
   	+ [Airbnb Data Exploration](#airbnb)
-  	+ [Breast_Bancer_ETL](#etl)
+  	+ [Breast_Cancer_ETL](#breast-cancer-etl)
 	+ [Fitbit Data Analysis](#fitbit-data-analysis)
 	+ [Hr Analytics Dashboard](#hr-analytics-dashboard)
 	+ [Covid19 Data analysis using Python](#covid19-analysis)
