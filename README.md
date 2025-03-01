@@ -46,6 +46,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Successfully explored data and made a visualization  
 
 ### Breast Cancer ETL
+**Presentation:** https://github.com/paalaxus/Breast-Cancer-ETL  
 **Description:** A simple ETL pipeline that extracts data from a breast cancer CSV file obtained from Kaggle, transforms it to include only diagnosis and radius_mean, and loads it into a new CSV file. </br>
 **Technology:** Python, Pandas      
 **Results:** Successfuly created a new csv file with the filter 
